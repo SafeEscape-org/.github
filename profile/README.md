@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![SafeEscape Logo](img/Gemini_Generated_Image_o1k4gjo1k4gjo1k4.jpeg)
+![SafeEscape Logo](https://github.com/SafeEscape-org/.github/blob/a334d67ff12e04c8e5d954de008c81c1bbbe8205/img/Gemini_Generated_Image_o1k4gjo1k4gjo1k4.jpeg))
 
 **Empowering communities with intelligent emergency response solutions**
 
