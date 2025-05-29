@@ -88,7 +88,7 @@ Maintaining reliable communication during disasters is critical. SafeEscape ensu
 
 SafeEscape follows a modular and scalable architecture that ensures reliability during critical situations:
 
-![Architecture Diagram](https://via.placeholder.com/800x400?text=SafeEscape+Architecture)
+![Architecture Diagram]()
 
 ### Frontend (Mobile Application)
 
