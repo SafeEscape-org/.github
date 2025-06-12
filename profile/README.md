@@ -174,7 +174,7 @@ Before setting up SafeEscape, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/SafeEscape-org/SafeEscape.git
-git clone https://github.com/amanmogal/SafeEscape-backend.git
+git clone https://github.com/SafeEscape-org/SafeEscape-backend.git
 ```
 
 #### 2. Frontend Setup
@@ -290,18 +290,6 @@ If you find SafeEscape valuable or are excited about its potential, please give 
 
 <div align="center">
   
-[⭐ Star the Frontend Repository](https://github.com/SafeEscape-org/SafeEscape) | [⭐ Star the Backend Repository](https://github.com/amanmogal/SafeEscape-backend)
+[⭐ Star the Frontend Repository](https://github.com/SafeEscape-org/SafeEscape) | [⭐ Star the Backend Repository](https://github.com/SafeEscape-org/SafeEscape-backend)
 
 </div>
-
-## 👨‍💻 Meet the Team
-
-SafeEscape was developed by a dedicated team passionate about using technology to save lives:
-
-- **Project Lead**: [Developer Name](https://github.com/username)
-- **Frontend Developer**: [Developer Name](https://github.com/username)  
-- **Backend Developer**: [Developer Name](https://github.com/username)
-- **AI Specialist**: [Developer Name](https://github.com/username)
-- **UX Designer**: [Designer Name](https://github.com/username)
-
----
