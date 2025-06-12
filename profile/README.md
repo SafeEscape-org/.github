@@ -152,7 +152,7 @@ SafeEscape employs a modern and robust technology stack:
 This project is split into two main repositories:
 
 - **Frontend (Mobile App)**: [SafeEscape-org/SafeEscape](https://github.com/SafeEscape-org/SafeEscape)
-- **Backend (API & Services)**: [amanmogal/SafeEscape-backend](https://github.com/amanmogal/SafeEscape-backend)
+- **Backend (API & Services)**: [SafeEscape-org/SafeEscape-backend](https://github.com/SafeEscape-org/SafeEscape-backend)
 
 ## 🚀 Installation Guide
 
